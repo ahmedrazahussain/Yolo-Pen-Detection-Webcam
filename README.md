@@ -14,7 +14,7 @@ This project implements real-time pen detection using the YOLOv8 object detectio
 ## Download Model & Dataset
 Download the trained YOLOv8 model here: https://drive.google.com/file/d/1X11tzurnSmXAa3S5EZ4z0oLagfzVQ74y/view?usp=drive_link
 Download the custom dataset from Roboflow: 
-!pip install roboflow
+'''!pip install roboflow
 
 from roboflow import Roboflow
 rf = Roboflow(api_key="lC2FRdEFWLGU0wIfa7Xn")
