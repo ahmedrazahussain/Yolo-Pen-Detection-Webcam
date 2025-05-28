@@ -11,3 +11,5 @@ This project implements real-time pen detection using the YOLOv8 object detectio
 - Capture video frames from webcam
 - Use the YOLO model to detect pens in each frame
 - Bounding boxes and labels for detected pens
+## Download Model
+Download the trained YOLOv8 model here: https://drive.google.com/file/d/1X11tzurnSmXAa3S5EZ4z0oLagfzVQ74y/view?usp=drive_link
